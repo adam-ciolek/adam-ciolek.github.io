@@ -1,0 +1,25 @@
+<svg width="192" height="185" viewBox="0 0 192 185" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="66.1728" cy="121.278" r="62.2777" stroke="url(#paint0_linear_13_263)" stroke-width="2"/>
+<g filter="url(#filter0_f_13_263)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M114.009 163.463C133.004 141.939 134.394 110.155 115.546 87.0144C93.6907 60.1823 52.901 55.1334 24.4395 75.7372C22.5301 77.1194 20.7248 78.5819 19.0247 80.1159C22.0551 76.6819 25.5338 73.5091 29.4498 70.6743C57.9113 50.0705 98.701 55.1194 120.556 81.9514C140.945 106.983 137.652 142.131 114.009 163.463Z" fill="#F95025" fill-opacity="0.7"/>
+</g>
+<g filter="url(#filter1_f_13_263)">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M15.7964 156.847C37.7319 184.019 78.6717 189.132 107.238 168.267C112.561 164.379 117.079 159.863 120.765 154.912C116.718 161.168 111.425 166.842 104.935 171.582C76.3686 192.447 35.4289 187.334 13.4934 160.162C-4.35437 138.053 -4.12181 108.153 11.9719 86.5373C-1.79656 107.819 -1.15555 135.848 15.7964 156.847Z" fill="#1BFAF4" fill-opacity="0.8"/>
+</g>
+<defs>
+<filter id="filter0_f_13_263" x="-38.9753" y="7.62939e-05" width="230.975" height="221.463" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="29" result="effect1_foregroundBlur_13_263"/>
+</filter>
+<filter id="filter1_f_13_263" x="-37" y="49.5373" width="194.765" height="171.88" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="18.5" result="effect1_foregroundBlur_13_263"/>
+</filter>
+<linearGradient id="paint0_linear_13_263" x1="102.981" y1="66.0648" x2="34.9475" y2="184.555" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F95025"/>
+<stop offset="1" stop-color="#1BFAF4"/>
+</linearGradient>
+</defs>
+</svg>
