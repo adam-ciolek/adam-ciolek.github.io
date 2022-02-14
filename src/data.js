@@ -15,3 +15,45 @@ export const links = [
 		url: "contact",
 	},
 ];
+
+export const skills = [
+	{
+		skill: "Html",
+	},
+	{
+		skill: "Css",
+	},
+	{
+		skill: "Boostrap",
+	},
+	{
+		skill: "JQuery",
+	},
+	{
+		skill: "Sass",
+	},
+	{
+		skill: "React hooks",
+	},
+	{
+		skill: "Tailwind",
+	},
+	{
+		skill: "Redux",
+	},
+];
+
+export const passions = [
+	{
+		passion: "Muzyka",
+	},
+	{
+		passion: "Gry",
+	},
+	{
+		passion: "Gotowanie",
+	},
+	{
+		passion: "Taniec",
+	},
+];

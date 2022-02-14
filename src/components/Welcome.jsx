@@ -1,7 +1,6 @@
 import React from "react";
 import { Decoration } from "./";
 import smdev from "../assets/phone/smalldev.svg";
-import mddev from "../assets/tablet/mddev.svg";
 
 const Welcome = () => {
 	return (
